@@ -16,4 +16,9 @@ Construir um esquema conceitual (modelo ER) que represente o fluxo de trabalho d
 - Peça
 
 ## Diagrama ER
-O diagrama
+O diagrama a seguir representa o modelo conceitual:
+
+![Modelo Conceitual](modelo-conceitual.png)
+
+## Observações
+Caso algum dado não estivesse claro na narrativa original, foram feitas suposições com base em boas práticas de modelagem e lógica de negócio.
