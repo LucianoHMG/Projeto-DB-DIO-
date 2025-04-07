@@ -1,0 +1,19 @@
+# Desafio: Esquema Conceitual - Oficina Mecânica
+
+## Contexto
+Este projeto foi desenvolvido como parte de um desafio de modelagem de banco de dados, com base em uma narrativa de controle de ordens de serviço de uma oficina mecânica.
+
+## Objetivo
+Construir um esquema conceitual (modelo ER) que represente o fluxo de trabalho da oficina, incluindo clientes, veículos, ordens de serviço, equipes de mecânicos, serviços realizados e peças utilizadas.
+
+## Entidades e Relacionamentos
+- Cliente
+- Veículo
+- Ordem de Serviço (OS)
+- Equipe
+- Mecânico
+- Serviço
+- Peça
+
+## Diagrama ER
+O diagrama
